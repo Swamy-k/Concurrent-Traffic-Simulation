@@ -6,7 +6,7 @@
 
 
 
-Developing a traffic simulation in which vehicles are moving along streets and are crossing intersections. However, with increasing traffic in the city, traffic lights are needed for road safety. Each intersection will therefore be equipped with a traffic light. In this project, we will build a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation. Using concurrent programming (such as mutexes, locks and message queues) to implement the traffic lights and integrate them properly in the code base.
+Developing a traffic simulation in which vehicles are moving along streets and are crossing intersections. However, with increasing traffic in the city, traffic lights are needed for road safety. Each intersection will therefore be equipped with a traffic light. In this project, we will build a suitable and thread-safe communication protocol between vehicles and intersections to complete the simulation. Using concurrent programming (such as mutexes, locks and message queues) to implement the traffic lights and integrate them properly in the code.
 
 ## Dependencies for Running Locally
 * cmake >= 2.8
